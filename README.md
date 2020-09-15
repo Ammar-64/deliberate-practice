@@ -38,10 +38,12 @@ Try this:
 1. Gather a group of people and pick a leader, mostly students but there can be other random people along for the ride.  it's fun.
 2. Agree to move through this work together in a timed rhythm.  The rhythm is designed to force a series of struggles.
 3. Some measure of playful faith might be required if you're the kind of person who prefers to control your own learning
+
 4. Here's the rhythm: (40+ solutions * (5 sec + 50 sec) + 3 solutions * (5 * 60 sec)) = **50 mins total**
-  - **for 5 seconds:** review each solution as quickly as possible.  look for visual anchors, patterns, data structures, etc.
-  - **for 50 seconds:** review each solution long enough to classify it.  make up your own categories, compare and curate.
-  - **for 5 minutes:** review the top 3 solutions more carefully.  how you sort for top 3 is another key question.
+  - **for 3 seconds:** review each solution as quickly as possible.  look for visual anchors, patterns, data structures, etc.
+  - **for 30 seconds:** review each solution long enough to classify it.  make up your own categories, compare and curate.
+  - **for 3 minutes:** review the top 3 solutions more carefully.  how you sort for top 3 is another key question.
+  
 5. The cycle above can be repeated for other dimensions like swapping programming languages, machine constraints, pairing makeup, etc to help build a healthy heuristic for whatever your area of focus might be.  if the goal of the experience is to learn a second programming language quickly, then running this exercise through commong problems in familiar languages to the same problems in unfamiliar code will fill in many gaps quickly.  if the goal is self awareness then swapping pairs is great.
 6. once the journey is complete you can pick your next ambitious target like writing an original solution
 7. finally, the discussion is where a lot of the learning happens.  consider using a consistent, proven approach like [Thiagi's Six Step Debriefing process](https://ipjanuary2014.files.wordpress.com/2014/01/thiagis-debriefing-and-albatros-skit.pdf) so you can focus all your attention on the student experience and record observations for deeper mentorship.
